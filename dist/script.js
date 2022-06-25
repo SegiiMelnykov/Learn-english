@@ -268,7 +268,7 @@ eval("/*!\r\n * swiped-events.js - v@version@\r\n * Pure JavaScript swipe events
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("a55fcb28f3a23b9f259d")
+/******/ 		__webpack_require__.h = () => ("b055a645c6409df33625")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
