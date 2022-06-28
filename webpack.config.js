@@ -7,7 +7,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
     entry: {
-        main: path.resolve(__dirname, './src/js/script.js'),
+        main: path.resolve(__dirname, './source/js/script.js'),
     },
     output: {
         path: path.resolve(__dirname,'./dist/'),
@@ -27,7 +27,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             title: 'webpack Boilerplate',
-            template: path.resolve(__dirname, './src/index.html'), // шаблон
+            template: path.resolve(__dirname, './source/index.html'), // шаблон
             filename: 'index.html', // название выходного файла
         }),
         
