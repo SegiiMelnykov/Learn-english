@@ -24,6 +24,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "easy-speech": "^1.2.0",
     "read-excel-file": "^5.3.4"
   }
 }
